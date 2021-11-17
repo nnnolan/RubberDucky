@@ -8,4 +8,4 @@ DELAY 100
 STRING notepad.exe
 ENTER
 DELAY 100
-STRING Hello World!
+STRING Your computer has been comprimised! Talk to Jason Enneking about how to fix it. L BOZO from NCAPS <3
