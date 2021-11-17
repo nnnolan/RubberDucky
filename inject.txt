@@ -1,0 +1,10 @@
+REM Title : Hello World!
+REM Author: AM CAPS
+REM Description : A simple Hello World! program in batch file ONLY WORKS ON WINDOWS
+REM Date : 11/17/21
+GUI r 
+DELAY 100
+STRING notepad.exe
+ENTER
+DELAY 100
+String Hello World!
